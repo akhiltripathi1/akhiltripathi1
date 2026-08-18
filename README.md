@@ -1,11 +1,11 @@
-👋 Hello, I'm Akhil Tripathi
+# Hello, I'm Akhil Tripathi 👋 
 
-I'm a CS student focused on building scalable web applications, backend systems, cloud-native applications.  
-I enjoy turning ideas into production-ready software and continuously learning how to build reliable, scalable systems.
+_I'm a CS student focused on building scalable web application, backend systems and cloud-native applications._  
+_I enjoy turning ideas into production-ready software and continuously learning how to build reliable, scalable systems._
 
 ---
 
-🔗 Things I Code With
+## 🔗 Technologies I Work With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
@@ -27,7 +27,7 @@ I enjoy turning ideas into production-ready software and continuously learning h
 
 ---
 
-📜 About Me
+## 📜 About Me
 
 I'm passionate about software engineering, backend development, cloud infrastructure, DevOps and AI.
 
@@ -45,7 +45,7 @@ I'm constantly learning, building, and experimenting with new technologies.
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akhil-tripathi1/)
 - 🐙 [GitHub](https://github.com/akhiltripathi1)
@@ -54,4 +54,4 @@ I'm constantly learning, building, and experimenting with new technologies.
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!

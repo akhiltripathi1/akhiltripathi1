@@ -33,13 +33,12 @@ I'm passionate about software engineering, backend development, cloud infrastruc
 
 I like working on projects that involve:
 
-- 🚀 Scalable backend APIs 
-- 🏗️ System design and distributed systems
-- ☁️ Cloud infrastructure and deployment
-- 🐳 Docker and containerized applications
-- 🔄 CI/CD automation
+- 🚀 Scalable backend APIs
 - 🔐 Authentication, security and reliable APIs
-- 🤖 LLM applications, RAG and AI agents
+- 🏗️ System design and distributed systems
+- 🐳 Docker and containerized applications
+- ☁️ Cloud infrastructure and deployment
+- 🔄 CI/CD automation
 
 I'm constantly learning, building, and experimenting with new technologies.
 

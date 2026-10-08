@@ -17,7 +17,7 @@ _I enjoy turning ideas into production-ready software and continuously learning 
 ![JWT](https://img.shields.io/badge/JWT-202020?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-6B7280?style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder%20Client-9B59B6?style=flat-square&logo=thunderclient&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
